@@ -1,0 +1,12 @@
+#timeDisplay{
+    font-size: 75px;
+    color: #40c347;
+    font-family: consolas, monospace;
+}
+
+#timeContainer{
+    text-align: center;
+    border: 3px solid;
+    border-radius: 25px;
+    background-color: #222222;
+}
